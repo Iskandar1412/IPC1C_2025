@@ -8,7 +8,7 @@
 
 |              CARPETA              |   MD   | Fecha Entrega | Prorroga |
 | :-------------------------------: | :----: | :-----------: | :------: |
-| [Practica 1](./Practicas) | [View](.) |            |   ---   |
+| [Practica 1](./Practicas) | [View](.) |      ---      |   ---   |
 | [Practica 2](./Practicas) | [View](.) |      ---      |   ---   |
 
 ### Proyectos
