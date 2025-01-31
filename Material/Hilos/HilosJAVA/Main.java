@@ -19,8 +19,8 @@ class Bubble implements Runnable {
                     int temp = array[j];
                     array[j] = array[j + 1];
                     array[j + 1] = temp;
+                    System.out.println("Array (Bubble): " + Arrays.toString(array));
                 }
-                System.out.println("Array (Bubble): " + Arrays.toString(array));
                 try {
                     Thread.sleep(500);
                 } catch (InterruptedException e) {
@@ -57,8 +57,8 @@ class Selection implements Runnable {
                 int temp = array[minIndex];
                 array[minIndex] = array[i];
                 array[i] = temp;
+                System.out.println("Array (Selection): " + Arrays.toString(array));
             }
-            System.out.println("Array (Selection): " + Arrays.toString(array));
             try {
                 Thread.sleep(500);
             } catch (InterruptedException e) {
