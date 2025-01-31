@@ -1,7 +1,6 @@
 package org.example;
 
 import Controlador.CAnimal;
-import Modelo.Animal;
 import Modelo.Gato;
 import Modelo.Perro;
 import Vista.VAnimmal;
