@@ -1,0 +1,15 @@
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.AssemblyInfoInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.AssemblyInfo.cs
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.csproj.CoreCompileInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.sourcelink.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/bin/Debug/net9.0/PolimorfismoCSharp
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/bin/Debug/net9.0/PolimorfismoCSharp.deps.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/bin/Debug/net9.0/PolimorfismoCSharp.runtimeconfig.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/bin/Debug/net9.0/PolimorfismoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/bin/Debug/net9.0/PolimorfismoCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/refint/PolimorfismoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/PolimorfismoCSharp.genruntimeconfig.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Polimorfismo/PolimorfismoCSharp/obj/Debug/net9.0/ref/PolimorfismoCSharp.dll

@@ -33,7 +33,7 @@ class Goku extends Saiyajin {
     @Override
     public void transformarse() {
         System.out.println(nombre + " se transforma en Super Saiyajin Fase 3!");
-        nivelPoder *= 50; // Aumento de nivel de poder
+        nivelPoder *= 50;
     }
 
     @Override
@@ -52,7 +52,7 @@ class Vegeta extends Saiyajin {
     @Override
     public void transformarse() {
         System.out.println(nombre + " se transforma en Super Saiyajin Fase 2!");
-        nivelPoder *= 45; // Aumento de nivel de poder
+        nivelPoder *= 45;
     }
 
     @Override
@@ -71,7 +71,7 @@ class Broly extends Saiyajin {
     @Override
     public void transformarse() {
         System.out.println(nombre + " se transforma en Super Saiyajin Legendario!");
-        nivelPoder *= 70; // Aumento de nivel de poder
+        nivelPoder *= 70;
     }
 
     @Override
@@ -87,7 +87,6 @@ public class Main {
         Saiyajin vegeta = new Vegeta();
         Saiyajin broly = new Broly();
 
-        // Array
         Saiyajin[] guerreros = {goku, vegeta, broly};
 
         System.out.println("¡Comienza la batalla!\n");
