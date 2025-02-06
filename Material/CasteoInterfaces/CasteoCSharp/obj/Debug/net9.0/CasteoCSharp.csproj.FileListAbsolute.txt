@@ -1,0 +1,15 @@
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/bin/Debug/net9.0/CasteoCSharp
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/bin/Debug/net9.0/CasteoCSharp.deps.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/bin/Debug/net9.0/CasteoCSharp.runtimeconfig.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/bin/Debug/net9.0/CasteoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/bin/Debug/net9.0/CasteoCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.AssemblyInfoInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.AssemblyInfo.cs
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.csproj.CoreCompileInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.sourcelink.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/refint/CasteoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/CasteoCSharp.genruntimeconfig.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/CasteoInterfaces/CasteoCSharp/obj/Debug/net9.0/ref/CasteoCSharp.dll
