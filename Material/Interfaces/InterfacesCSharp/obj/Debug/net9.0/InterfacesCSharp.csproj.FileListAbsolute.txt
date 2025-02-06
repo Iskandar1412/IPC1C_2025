@@ -1,0 +1,15 @@
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/bin/Debug/net9.0/InterfacesCSharp
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/bin/Debug/net9.0/InterfacesCSharp.deps.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/bin/Debug/net9.0/InterfacesCSharp.runtimeconfig.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/bin/Debug/net9.0/InterfacesCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/bin/Debug/net9.0/InterfacesCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.AssemblyInfoInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.AssemblyInfo.cs
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.csproj.CoreCompileInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.sourcelink.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/refint/InterfacesCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/InterfacesCSharp.genruntimeconfig.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Interfaces/InterfacesCSharp/obj/Debug/net9.0/ref/InterfacesCSharp.dll

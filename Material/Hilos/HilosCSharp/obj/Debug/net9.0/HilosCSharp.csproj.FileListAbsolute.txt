@@ -1,0 +1,15 @@
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/bin/Debug/net9.0/HilosCSharp
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/bin/Debug/net9.0/HilosCSharp.deps.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/bin/Debug/net9.0/HilosCSharp.runtimeconfig.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/bin/Debug/net9.0/HilosCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/bin/Debug/net9.0/HilosCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.AssemblyInfoInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.AssemblyInfo.cs
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.csproj.CoreCompileInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.sourcelink.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/refint/HilosCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/HilosCSharp.genruntimeconfig.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Hilos/HilosCSharp/obj/Debug/net9.0/ref/HilosCSharp.dll
