@@ -1,0 +1,15 @@
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.AssemblyInfoInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.AssemblyInfo.cs
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.csproj.CoreCompileInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.sourcelink.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/bin/Debug/net9.0/EncapsulamientoCSharp
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/bin/Debug/net9.0/EncapsulamientoCSharp.deps.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/bin/Debug/net9.0/EncapsulamientoCSharp.runtimeconfig.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/bin/Debug/net9.0/EncapsulamientoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/bin/Debug/net9.0/EncapsulamientoCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/refint/EncapsulamientoCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/EncapsulamientoCSharp.genruntimeconfig.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Encapsulamiento/EncapsulamientoCSharp/obj/Debug/net9.0/ref/EncapsulamientoCSharp.dll
