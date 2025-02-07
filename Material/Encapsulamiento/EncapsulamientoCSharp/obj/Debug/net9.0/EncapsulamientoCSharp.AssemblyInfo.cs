@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncapsulamientoCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e453d461d6a7afac3a4a2a1bc050f0babdf408ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da0d99436aa2e761bd6b968bcc403fd2d08ccc8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncapsulamientoCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncapsulamientoCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
