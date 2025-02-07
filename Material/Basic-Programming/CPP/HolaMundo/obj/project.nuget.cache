@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJmvCduhLy4=",
+  "success": true,
+  "projectFilePath": "/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Basic-Programming/CPP/HolaMundo/HolaMundo.csproj",
+  "expectedPackageFiles": [
+    "/home/Iskandar/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
