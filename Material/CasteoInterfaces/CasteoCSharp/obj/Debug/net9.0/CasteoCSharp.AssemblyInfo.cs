@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CasteoCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da0d99436aa2e761bd6b968bcc403fd2d08ccc8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e15587138bfc75862301de990603f26c86e5c9fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CasteoCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CasteoCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
