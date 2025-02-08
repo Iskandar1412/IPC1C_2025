@@ -1,0 +1,15 @@
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.AssemblyInfoInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.AssemblyInfo.cs
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.csproj.CoreCompileInputs.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.sourcelink.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/bin/Debug/net9.0/HerenciaCSharp
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/bin/Debug/net9.0/HerenciaCSharp.deps.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/bin/Debug/net9.0/HerenciaCSharp.runtimeconfig.json
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/bin/Debug/net9.0/HerenciaCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/bin/Debug/net9.0/HerenciaCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/refint/HerenciaCSharp.dll
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.pdb
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/HerenciaCSharp.genruntimeconfig.cache
+/home/Iskandar/Documentos/repos/IPC1-C_2025/Material/Herencia/HerenciaCSharp/obj/Debug/net9.0/ref/HerenciaCSharp.dll
